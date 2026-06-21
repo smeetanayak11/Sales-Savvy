@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="100" y="100" width="200" height="220" rx="24" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <line x1="140" y1="140" x2="260" y2="140" stroke="#94a3b8" stroke-width="10"/>
+  <line x1="140" y1="180" x2="260" y2="180" stroke="#94a3b8" stroke-width="10"/>
+  <line x1="140" y1="220" x2="260" y2="220" stroke="#94a3b8" stroke-width="10"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Book</text>
+</svg>

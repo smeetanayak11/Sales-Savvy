@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M80 240 C120 180 180 160 240 170 C280 180 330 210 340 250 C320 260 280 260 240 260 C180 260 120 250 80 240 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="12"/>
+  <path d="M95 220 C140 190 190 190 230 205" stroke="#64748b" stroke-width="12" fill="none"/>
+  <path d="M160 210 L170 190" stroke="#64748b" stroke-width="12" fill="none"/>
+  <path d="M215 210 L225 190" stroke="#64748b" stroke-width="12" fill="none"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Shoes</text>
+</svg>

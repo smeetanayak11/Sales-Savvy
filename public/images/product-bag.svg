@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="110" y="120" width="180" height="180" rx="28" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <path d="M140 120 Q200 50 260 120" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="14"/>
+  <path d="M160 120 V90" stroke="#64748b" stroke-width="12"/>
+  <path d="M240 120 V90" stroke="#64748b" stroke-width="12"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Bag</text>
+</svg>

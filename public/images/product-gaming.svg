@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="110" y="120" width="180" height="120" rx="20" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <path d="M130 170 L155 195 L140 210" stroke="#64748b" stroke-width="14" fill="none"/>
+  <path d="M270 170 L245 195 L260 210" stroke="#64748b" stroke-width="14" fill="none"/>
+  <circle cx="200" cy="220" r="18" fill="#e2e8f0"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Gaming</text>
+</svg>

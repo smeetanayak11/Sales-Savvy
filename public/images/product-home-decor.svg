@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="90" y="150" width="220" height="180" rx="24" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <circle cx="200" cy="220" r="32" fill="#e2e8f0"/>
+  <path d="M160 280 L240 280" stroke="#94a3b8" stroke-width="14"/>
+  <rect x="170" y="170" width="60" height="80" fill="#e2e8f0" rx="12"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Decor</text>
+</svg>

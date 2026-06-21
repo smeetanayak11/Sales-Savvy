@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M120 80 L150 60 H250 L280 80 L240 160 H160 Z" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <path d="M120 80 L140 200 C150 240 250 240 260 200 L280 80" fill="#e2e8f0"/>
+  <path d="M160 140 H240" stroke="#64748b" stroke-width="12"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Clothes</text>
+</svg>

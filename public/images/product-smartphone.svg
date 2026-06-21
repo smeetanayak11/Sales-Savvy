@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="90" y="40" width="220" height="320" rx="28" fill="#f8fafc" stroke="#cbd5e1" stroke-width="16"/>
+  <rect x="130" y="80" width="140" height="200" rx="16" fill="#e2e8f0"/>
+  <circle cx="200" cy="310" r="14" fill="#cbd5e1"/>
+  <rect x="170" y="20" width="60" height="10" rx="5" fill="#cbd5e1"/>
+  <text x="200" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="26">Phone</text>
+</svg>
